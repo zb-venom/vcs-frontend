@@ -95,6 +95,12 @@ h1, h2, h3, h4, h5, h6 {
     background-color: rgb(0, 234, 255);
 }
 
+.abouts {
+    top: 10%;
+    padding: 2rem;
+    font-size: 1rem;
+}
+
 .footer {
     grid-column: span 4;
     margin: 0;
