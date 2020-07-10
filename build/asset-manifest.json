@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/vcs-frontend/static/js/main.a89d09b6.chunk.js",
+    "main.js.map": "/vcs-frontend/static/js/main.a89d09b6.chunk.js.map",
+    "runtime-main.js": "/vcs-frontend/static/js/runtime-main.a356d3ba.js",
+    "runtime-main.js.map": "/vcs-frontend/static/js/runtime-main.a356d3ba.js.map",
+    "index.html": "/vcs-frontend/index.html",
+    "precache-manifest.ba9a468b1f14f2a0f693690534e75987.js": "/vcs-frontend/precache-manifest.ba9a468b1f14f2a0f693690534e75987.js",
+    "service-worker.js": "/vcs-frontend/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a356d3ba.js",
+    "static/js/main.a89d09b6.chunk.js"
+  ]
+}
